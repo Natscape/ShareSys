@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.1">
+    <CLASSES>
+      <root url="jar://D:/LIB/lib/c3p0-0.9.5.1/lib/c3p0-0.9.5.1.jar!/" />
+      <root url="jar://D:/LIB/lib/commons-dbutils-1.6/commons-dbutils-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
